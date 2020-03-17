@@ -1,26 +1,36 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { useState } from 'react';
+import { selectProfileId } from './lib/selectProfileId';
+import { getProfileStats } from './lib/getProfileStats';
 
-function App() {
+const config = {
+	hypixelBaseUrl: 'https://api.hypixel.net',
+	username: 'Distraxtions',
+	uuid: 'c20ece2105c04ad2b1bc63708430f9f8',
+	profileName: 'pear'
+};
+
+const App = (props) => {
+	const [isLoading, setIsLoading] = useState(true);
+	const [profileData, setProfileData] = useState({});
+
+	selectProfileId(config.uuid, {
+		hypixelBaseUrl: config.hypixelBaseUrl,
+		profileName: config.profileName
+	}).then((profileId) => {
+		getProfileStats(profileId, {
+			hypixelBaseUrl: config.hypixelBaseUrl
+		})
+			.then((profile) => {
+				setIsLoading(false);
+				setProfileData(profile);
+			});
+	});
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className={'App'}>
+      {isLoading ? <div><p>Loading...</p></div> : profileData}
     </div>
   );
-}
+};
 
 export default App;
