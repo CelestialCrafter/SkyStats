@@ -7,7 +7,7 @@ const selectProfileId = async (uuid, options) => {
 
 	const profiles = Object.values(response.data.player.stats.SkyBlock.profiles);
 
-	return profiles.find((profile) => profile.cute_name === options.profileName).profileId;
+	return profiles.map((profile) => profile.cute_name);
 };
 
 export default selectProfileId;
