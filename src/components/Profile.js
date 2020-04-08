@@ -1,14 +1,17 @@
 import React from 'react';
+import styled from 'styled-components';
+import APINotEnabled from './APINotEnabled';
+import Stats from './Stats';
 
-import Loading from './Loading';
+const H2 = styled.h2`
+	font-family: 'Roboto', sans-serif;
+`;
 
 const Profile = (props) => {
-
-
 	return (
 		<div>
-			<h2>Welcome Back {props.uuid}!</h2>
-			
+			<H2>Welcome Back {props.name}!</H2>
+			<Stats data={props.data} uuid={props.uuid} />
 		</div>
 	);
 };

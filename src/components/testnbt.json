@@ -1,0 +1,263 @@
+{
+  "i": [
+    {
+      "id": 309,
+      "Count": 1,
+      "tag": {
+        "ench": [
+          {
+            "lvl": 3,
+            "id": 8
+          }
+        ],
+        "Unbreakable": 1,
+        "HideFlags": 254,
+        "display": {
+          "Lore": [
+            "§7Strength: §c+7 §c(Godly +7)",
+            "§7Crit Chance: §c+3% §c(Godly +3%)",
+            "§7Crit Damage: §c+6% §c(Godly +6%)",
+            "",
+            "§7Health: §a+145 HP",
+            "§7Defense: §a+115",
+            "§7Speed: §a+5",
+            "§7Intelligence: §a+53 §c(Godly +3)",
+            "",
+            "§9Depth Strider III",
+            "§7Reduces how much you are slowed",
+            "§7in the water by §a100%§7.",
+            "§9Growth V",
+            "§7Grants §a+75 §c❤ Health§7.",
+            "§9Protection V",
+            "§7Grants §a+15 §a❈ Defense§7.",
+            "",
+            "§f◆ Clouds Rune III",
+            "§8Requires level 16",
+            "",
+            "§6Full Set Bonus: Octodexterity",
+            "§7Every 4th strike, deal §cdouble",
+            "§cdamage §7and apply Venom",
+            "§7reducing healing by §240% §7for",
+            "§7§b4 §7seconds.",
+            "",
+            "§6Piece Bonus: Spider Bulwark",
+            "§7Kill Spiders to accumulate",
+            "§7defense against them.",
+            "§7Piece Bonus: §a+135❈",
+            "§7Next Upgrade: §a+160❈ §8(§a3,954§7/§c5,000§8)",
+            "",
+            "§6Item Ability: Double Jump",
+            "§7Allows you to double jump!",
+            "§8Mana Cost: §340",
+            "",
+            "§c☠ §5Requires Spider LVL 4",
+            "§5§lEPIC BOOTS"
+          ],
+          "Name": "§5Godly Tarantula Boots"
+        },
+        "ExtraAttributes": {
+          "runes": {
+            "CLOUDS": 3
+          },
+          "modifier": "godly",
+          "originTag": "CRAFTING_GRID_COLLECT",
+          "id": "TARANTULA_BOOTS",
+          "enchantments": {
+            "depth_strider": 3,
+            "protection": 5,
+            "growth": 5
+          },
+          "uuid": "2ae7372d-1dc4-4c47-bfde-c2780088e89e",
+          "anvil_uses": 2,
+          "timestamp": "12/9/19 11:17 PM",
+          "spider_kills": 3954
+        }
+      },
+      "Damage": 0
+    },
+    {
+      "id": 300,
+      "Count": 1,
+      "tag": {
+        "ench": [],
+        "Unbreakable": 1,
+        "HideFlags": 254,
+        "display": {
+          "Lore": [
+            "§7Strength: §c+7 §c(Godly +7)",
+            "§7Crit Chance: §c+3% §c(Godly +3%)",
+            "§7Crit Damage: §c+6% §c(Godly +6%)",
+            "",
+            "§7Health: §a+135 HP",
+            "§7Defense: §a+35",
+            "§7Intelligence: §a+3 §c(Godly +3)",
+            "",
+            "§9Growth V",
+            "§7Grants §a+75 §c❤ Health§7.",
+            "§9Protection V",
+            "§7Grants §a+15 §a❈ Defense§7.",
+            "",
+            "§6Full Set Bonus: Octodexterity",
+            "§7Every 4th strike, deal §cdouble",
+            "§cdamage §7and apply Venom",
+            "§7reducing healing by §240% §7for",
+            "§7§b4 §7seconds.",
+            "",
+            "§6Piece Bonus: Spider Bulwark",
+            "§7Kill Spiders to accumulate",
+            "§7defense against them.",
+            "§7Piece Bonus: §a+160❈",
+            "§7Next Upgrade: §a+180❈ §8(§a5,051§7/§c7,500§8)",
+            "",
+            "§c☠ §5Requires Spider LVL 4",
+            "§5§lEPIC LEGGINGS"
+          ],
+          "color": 0,
+          "Name": "§5Godly Tarantula Leggings"
+        },
+        "ExtraAttributes": {
+          "color": "0:0:0",
+          "modifier": "godly",
+          "originTag": "CRAFTING_GRID_COLLECT",
+          "id": "TARANTULA_LEGGINGS",
+          "enchantments": {
+            "growth": 5,
+            "protection": 5
+          },
+          "uuid": "e7b2e056-512b-4f17-b49f-ccfa514bd06e",
+          "anvil_uses": 1,
+          "timestamp": "11/13/19 5:07 PM",
+          "spider_kills": 5051
+        }
+      },
+      "Damage": 0
+    },
+    {
+      "id": 303,
+      "Count": 1,
+      "tag": {
+        "ench": [],
+        "Unbreakable": 1,
+        "HideFlags": 254,
+        "display": {
+          "Lore": [
+            "§7Strength: §c+7 §c(Godly +7)",
+            "§7Crit Chance: §c+3% §c(Godly +3%)",
+            "§7Crit Damage: §c+6% §c(Godly +6%)",
+            "",
+            "§7Health: §a+195 HP",
+            "§7Defense: §a+115",
+            "§7Intelligence: §a+103 §c(Godly +3)",
+            "",
+            "§9Growth V",
+            "§7Grants §a+75 §c❤ Health§7.",
+            "§9Protection V",
+            "§7Grants §a+15 §a❈ Defense§7.",
+            "",
+            "§6Full Set Bonus: Octodexterity",
+            "§7Every 4th strike, deal §cdouble",
+            "§cdamage §7and apply Venom",
+            "§7reducing healing by §240% §7for",
+            "§7§b4 §7seconds.",
+            "",
+            "§6Piece Bonus: Spider Bulwark",
+            "§7Kill Spiders to accumulate",
+            "§7defense against them.",
+            "§7Piece Bonus: §a+160❈",
+            "§7Next Upgrade: §a+180❈ §8(§a5,051§7/§c7,500§8)",
+            "",
+            "§6Extra Bonus: §aAnti-Toxin",
+            "§7Immune to healing reduction.",
+            "",
+            "§c☠ §5Requires Spider LVL 4",
+            "§5§lEPIC CHESTPLATE"
+          ],
+          "Name": "§5Godly Tarantula Chestplate"
+        },
+        "ExtraAttributes": {
+          "modifier": "godly",
+          "originTag": "CRAFTING_GRID_SHIFT",
+          "id": "TARANTULA_CHESTPLATE",
+          "enchantments": {
+            "growth": 5,
+            "protection": 5
+          },
+          "uuid": "0b7b824a-4b4d-477d-aa12-93b93a00efcd",
+          "anvil_uses": 1,
+          "timestamp": "12/11/19 9:47 AM",
+          "spider_kills": 5051
+        }
+      },
+      "Damage": 0
+    },
+    {
+      "id": 298,
+      "Count": 1,
+      "tag": {
+        "ench": [
+          {
+            "lvl": 3,
+            "id": 5
+          }
+        ],
+        "Unbreakable": 1,
+        "HideFlags": 254,
+        "display": {
+          "Lore": [
+            "§7Strength: §c+7 §c(Godly +7)",
+            "§7Crit Chance: §c+3% §c(Godly +3%)",
+            "§7Crit Damage: §c+6% §c(Godly +6%)",
+            "",
+            "§7Health: §a+175 HP",
+            "§7Defense: §a+95",
+            "§7Intelligence: §a+103 §c(Godly +3)",
+            "",
+            "§9Growth V",
+            "§7Grants §a+75 §c❤ Health§7.",
+            "§9Protection V",
+            "§7Grants §a+15 §a❈ Defense§7.",
+            "§9Respiration III",
+            "§7Extends your underwater",
+            "§7breathing time by §a45s§7.",
+            "",
+            "§6Full Set Bonus: Octodexterity",
+            "§7Every 4th strike, deal §cdouble",
+            "§cdamage §7and apply Venom",
+            "§7reducing healing by §240% §7for",
+            "§7§b4 §7seconds.",
+            "",
+            "§6Piece Bonus: Spider Bulwark",
+            "§7Kill Spiders to accumulate",
+            "§7defense against them.",
+            "§7Piece Bonus: §a+135❈",
+            "§7Next Upgrade: §a+160❈ §8(§a4,566§7/§c5,000§8)",
+            "",
+            "§6Extra Bonus: §aRadioactive",
+            "§c+1% Crit Damage §7per §c10 Strength§7.",
+            "",
+            "§c☠ §5Requires Spider LVL 4",
+            "§5§lEPIC HELMET"
+          ],
+          "color": 0,
+          "Name": "§5Godly Tarantula Helmet"
+        },
+        "ExtraAttributes": {
+          "color": "0:0:0",
+          "modifier": "godly",
+          "originTag": "CRAFTING_GRID_COLLECT",
+          "id": "TARANTULA_HELMET",
+          "enchantments": {
+            "protection": 5,
+            "growth": 5,
+            "respiration": 3
+          },
+          "uuid": "056ff1ef-a506-4e64-bd04-03ff79b4c752",
+          "anvil_uses": 2,
+          "timestamp": "12/9/19 12:16 PM",
+          "spider_kills": 4566
+        }
+      },
+      "Damage": 0
+    }
+  ]
+}
