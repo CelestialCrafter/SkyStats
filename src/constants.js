@@ -1812,7 +1812,6 @@ module.exports = {
 		1: {
 			type: 'color',
 			color: '#0000AA',
-			niceColor: '#3251AE',
 			css: 'color: #0000AA'
 		},
 
@@ -1849,7 +1848,6 @@ module.exports = {
 		7: {
 			type: 'color',
 			color: '#AAAAAA',
-			niceColor: '#333333',
 			css: 'color: #AAAAAA'
 		},
 
@@ -1861,49 +1859,43 @@ module.exports = {
 
 		9: {
 			type: 'color',
-			color: '#5555FF',
+			color: '#8888FF',
 			css: 'color: #8888FF'
 		},
 
 		a: {
 			type: 'color',
 			color: '#55FF55',
-			niceColor: '#40BB40',
 			css: 'color: #55FF55'
 		},
 
 		b: {
 			type: 'color',
 			color: '#55FFFF',
-			niceColor: '#51C4D7',
 			css: 'color: #55FFFF'
 		},
 
 		c: {
 			type: 'color',
 			color: '#FF5555',
-			niceColor: '#C43C3C',
 			css: 'color: #FF5555'
 		},
 
 		d: {
 			type: 'color',
 			color: '#FF55FF',
-			niceColor: '#D985BC',
 			css: 'color: #FF55FF'
 		},
 
 		e: {
 			type: 'color',
 			color: '#FFFF55',
-			niceColor: '#EAA522',
 			css: 'color: #FFFF55'
 		},
 
 		f: {
 			type: 'color',
 			color: '#FFFFFF',
-			niceColor: '#000000',
 			css: 'color: #FFFFFF'
 		},
 
